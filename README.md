@@ -12,11 +12,14 @@ Install the dependencies: `pip3 install -r requirements.txt`
 # Usage:
 
 To look up the ASN and ASN range of a single IP address, run: `python3 iphunter.py -t <IP Address>`
+
 To look up the ASN and ASN range of multiple IP addresses from a file, run: `python3 iphunter.py -f <filename>`
 
 **Note: The tool has a limit of 50 queries per day.**
 
 Example usage:
 
-`python3 iphunter.py -t 8.8.8.8` | `python3 iphunter.py -f ips.txt`
+`python3 iphunter.py -t 8.8.8.8`
+
+`python3 iphunter.py -f ips.txt`
 
