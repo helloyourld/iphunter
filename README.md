@@ -23,3 +23,8 @@ Example usage:
 
 `python3 iphunter.py -f ips.txt`
 
+# Acknowledgements
+
+[hackertarget.com](https://hackertarget.com/) for providing the API used in this tool.
+
+Feel free to modify and distribute this tool as you wish. If you find any bugs or have suggestions for improvement, please create an issue on this repository.
